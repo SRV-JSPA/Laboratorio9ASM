@@ -2,7 +2,7 @@
 ;Nancy Mazariegos 22513
 ;Santiago Pereira 22318
 ;Organización de computadoras y Assembler
-;Roger Díaz
+;Profesor Roger Díaz
 ;Descripcion: Laboratorio 9
 ;24/05/2023
 
